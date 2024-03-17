@@ -1,1 +1,1 @@
-/mnt/c/Users/jiros/OneDrive/Desktop/visualizer-template-public/wasm/target/wasm32-unknown-unknown/release/rust.wasm: /mnt/c/Users/jiros/OneDrive/Desktop/visualizer-template-public/wasm/src/lib.rs /mnt/c/Users/jiros/OneDrive/Desktop/visualizer-template-public/wasm/src/util.rs
+/mnt/c/Users/jiros/OneDrive/Desktop/tetmino_visualizer/wasm/target/wasm32-unknown-unknown/release/rust.wasm: /mnt/c/Users/jiros/OneDrive/Desktop/tetmino_visualizer/wasm/src/lib.rs /mnt/c/Users/jiros/OneDrive/Desktop/tetmino_visualizer/wasm/src/util.rs
